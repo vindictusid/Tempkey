@@ -24,11 +24,11 @@
     "id": "ca624bc24e570438",
     "username": "pepek",
     "password": "lo",
-    "expiresAt": "2025-01-01",
+    "expiresAt": "2025-08-08",
     "allowOffline": true
   },
   {
-    "id": "android_device_id_1",
+    "id": "android_device_id_100",
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
