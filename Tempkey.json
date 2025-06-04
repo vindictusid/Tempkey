@@ -23,12 +23,12 @@
   {
     "id": "ca624bc24e570438",
     "username": "lawak",
-    "password": "lo",
+    "password": "tai",
     "expiresAt": "2025-08-08",
     "allowOffline": true
   },
   {
-    "id": "android_device_id_100",
+    "id": "android_device_id_10",
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
