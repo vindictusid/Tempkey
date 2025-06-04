@@ -8,6 +8,13 @@
   },
   {
     "id": "ca624bc24e570438",
+    "username": "Hendrik",
+    "password": "gacor",
+    "expiresAt": "2025-06-04",
+    "allowOffline": true
+  },
+  {
+    "id": "ca624bc24e570438",
     "username": "vindictus",
     "password": "mod",
     "expiresAt": "2025-12-31",
