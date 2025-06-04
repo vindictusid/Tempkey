@@ -10,7 +10,7 @@
     "id": "ca624bc24e570438",
     "username": "kontol",
     "password": "asu",
-    "expiresAt": "2025-07-07",
+    "expiresAt": "2025-05-05",
     "allowOffline": true
   },
   {
@@ -21,7 +21,7 @@
     "allowOffline": true
   },
   {
-    "id": "android_device_id_5",
+    "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
