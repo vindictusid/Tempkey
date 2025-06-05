@@ -1,18 +1,18 @@
 [
   {
-    "id": "6d95fal7c7e40bea",
-    "username": "dpmods",
-    "password": "dpmods",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },  
-  {
     "id": "ca624bc24e570438",
     "username": "bujang",
     "password": "kau",
     "expiresAt": "2025-08-05",
     "allowOffline": true
-  },  
+  },
+  {
+    "id": "ca624bc24e570438",
+    "username": "memek",
+    "password": "lu",
+    "expiresAt": "2025-08-05",
+    "allowOffline": true
+  },
   {
     "id": "android_device_id_100",
     "username": "user2",
