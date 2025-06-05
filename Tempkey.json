@@ -17,11 +17,11 @@
     "id": "361dfab9b4023391",
     "username": "azka123",
     "password": "azka123",
-    "expiresAt": "2025-08-12",
+    "expiresAt": "2025-09-12",
     "allowOffline": true
   },
   {
-    "id": "android_device_id_100",
+    "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
