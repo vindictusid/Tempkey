@@ -8,32 +8,11 @@
   },
   {
     "id": "ca624bc24e570438",
-    "username": "memek",
-    "password": "asu",
-    "expiresAt": "2025-05-05",
-    "allowOffline": true
-  },
-  {
-    "id": "ca624bc24e570438",
-    "username": "vindictus",
-    "password": "mod",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "ca624bc24e570438",
-    "username": "lawak",
-    "password": "tai",
+    "username": "bangsat",
+    "password": "kau",
     "expiresAt": "2025-08-08",
     "allowOffline": true
-  },
-  {
-    "id": "ca624bc24e570438",
-    "username": "puki",
-    "password": "puki",
-    "expiresAt": "2025-05-05",
-    "allowOffline": true
-  },
+  },  
   {
     "id": "android_device_id_2",
     "username": "user2",
