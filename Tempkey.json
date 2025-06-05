@@ -14,6 +14,13 @@
     "allowOffline": true
   },
   {
+    "id": "361dfab9b4023391",
+    "username": "azkabandel",
+    "password": "azka",
+    "expiresAt": "2025-11-12",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_25",
     "username": "user2",
     "password": "pass2",
