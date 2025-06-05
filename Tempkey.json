@@ -5,13 +5,6 @@
     "password": "dpmods",
     "expiresAt": "2025-12-31",
     "allowOffline": true
-  },
-  {
-    "id": "ca624bc24e570438",
-    "username": "dia",
-    "password": "dia",
-    "expiresAt": "2025-08-05",
-    "allowOffline": true
   },  
   {
     "id": "ca624bc24e570438",
@@ -21,7 +14,7 @@
     "allowOffline": true
   },  
   {
-    "id": "android_device_id_10",
+    "id": "android_device_id_100",
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
