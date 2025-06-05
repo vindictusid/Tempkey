@@ -10,18 +10,11 @@
     "id": "361dfab9b4023391",
     "username": "boneng",
     "password": "boneng",
-    "expiresAt": "2025-05-12",
-    "allowOffline": true
-  },
-  {
-    "id": "361dfab9b4023391",
-    "username": "boneng",
-    "password": "boneng",
     "expiresAt": "2025-04-12",
     "allowOffline": true
   },
   {
-    "id": "android_device_id_20",
+    "id": "android_device_id_21",
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
