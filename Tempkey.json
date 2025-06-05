@@ -8,20 +8,13 @@
   },
   {
     "id": "361dfab9b4023391",
-    "username": "azka01",
-    "password": "azka",
-    "expiresAt": "2025-08-12",
+    "username": "boneng",
+    "password": "boneng",
+    "expiresAt": "2025-12-12",
     "allowOffline": true
   },
   {
-    "id": "361dfab9b4023391",
-    "username": "azka123",
-    "password": "azka123",
-    "expiresAt": "2025-09-12",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
+    "id": "android_device_id_20",
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
