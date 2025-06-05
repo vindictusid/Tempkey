@@ -14,6 +14,13 @@
     "allowOffline": true
   },
   {
+    "id": "361dfab9b4023391",
+    "username": "user",
+    "password": "vip",
+    "expiresAt": "2025-10-12",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_25",
     "username": "user2",
     "password": "pass2",
