@@ -14,6 +14,13 @@
     "allowOffline": true
   },
   {
+    "id": "4d1bcfa030becb58",
+    "username": "uservip",
+    "password": "mod",
+    "expiresAt": "2025-06-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_25",
     "username": "user2",
     "password": "pass2",
