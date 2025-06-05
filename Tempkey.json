@@ -1,22 +1,15 @@
 [
   {
-    "id": "ca624bc24e570438",
-    "username": "sayang",
-    "password": "kamu",
-    "expiresAt": "2025-04-05",
-    "allowOffline": true
-  },
-  {
     "id": "361dfab9b4023391",
-    "username": "azka123",
-    "password": "azka123",
+    "username": "azkabandel",
+    "password": "azka",
     "expiresAt": "2025-11-12",
     "allowOffline": true
   },
   {
-    "id": "361dfab9b4023391",
-    "username": "azkabandel",
-    "password": "azka",
+    "id": "ca624bc24e570438",
+    "username": "andikavip",
+    "password": "andika",
     "expiresAt": "2025-11-12",
     "allowOffline": true
   },
