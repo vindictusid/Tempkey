@@ -1,27 +1,13 @@
 [
   {
     "id": "ca624bc24e570438",
-    "username": "bujang",
-    "password": "kau",
-    "expiresAt": "2025-08-05",
-    "allowOffline": true
-  },
-  {
-    "id": "ca624bc24e570438",
-    "username": "memek",
-    "password": "lu",
-    "expiresAt": "2025-08-05",
-    "allowOffline": true
-  },
-  {
-    "id": "ca624bc24e570438",
     "username": "sayang",
     "password": "kamu",
     "expiresAt": "2025-08-05",
     "allowOffline": true
   },
   {
-    "id": "android_device_id_2",
+    "id": "android_device_id_10",
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
